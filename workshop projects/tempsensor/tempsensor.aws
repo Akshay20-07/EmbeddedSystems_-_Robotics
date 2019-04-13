@@ -1,0 +1,1 @@
+<AVRWorkspace><IOSettings><CurrentRegisters><ANALOG_COMPARATOR><register register="ACSR" group="ANALOG_COMPARATOR" display="1" locked="0"/></ANALOG_COMPARATOR><ANALOG_COMPARATOR><register register="SFIOR" group="ANALOG_COMPARATOR" display="1" locked="0"/></ANALOG_COMPARATOR></CurrentRegisters></IOSettings><part name="ATMEGA16"/><Files/></AVRWorkspace>
